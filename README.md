@@ -3,4 +3,5 @@ This project aims to create a targeted ad marketing campaign for a company by di
   1. K-Means Clustering
   2. Principal Component Analysis
   3. Auto-encoders
+
 This was a part of my guided projects course 'Modern Artificial Intelligence Masterclass' on Udemy.
